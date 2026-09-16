@@ -1,4 +1,3 @@
----- DEBUT -----
 # Hiérarchie de classes - simulation électorale
  
 Bibliothèque C++ modélisant un système électoral : candidats, circonscriptions, électeurs, avec validation stricte des données (programmation par contrat).
